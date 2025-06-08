@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Basic
-        price: £4
+        price: £5
         details: per month
         description: |
           Online private storage for those who need it.
