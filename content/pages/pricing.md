@@ -87,7 +87,7 @@ sections:
         features:
           - Choice of the amount of storage
           - Choice of network allocation (Automatically set to 5 Gig)
-          - Feature three
+          - AES-256 Encryption on all files
           - Feature four
           - Feature five
         image:
