@@ -18,7 +18,7 @@ sections:
           Online private storage for those who need it.
         features:
           - 200 GB of SSD Storage
-          - 1 G
+          - 1 Gig Bandwidth allocation
           - Feature three
           - Feature four
         image:
