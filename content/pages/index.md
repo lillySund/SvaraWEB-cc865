@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Our Claims
+      - label: Privacy
         altText: ''
         url: /
         showIcon: true
