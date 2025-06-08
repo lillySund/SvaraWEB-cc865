@@ -51,7 +51,7 @@ sections:
         features:
           - 2 TB of SSD Storage
           - 5 Gig Bandwidth allocation
-          - Feature three
+          - AES-256 Encryption on all files
           - Feature four
         image:
           url: /images/abstract-feature2.svg
