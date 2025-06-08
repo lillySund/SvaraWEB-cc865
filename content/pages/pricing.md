@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Plans made to suit all,'
+    subtitle: >-
+      Plans made to suit all, if you are an individual and want something more
+      tailored for you, you can always contact us.
     plans:
       - title: Basic
         price: £5
