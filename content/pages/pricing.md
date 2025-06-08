@@ -55,7 +55,7 @@ sections:
         features:
           - 2 TB of SSD Storage
           - Additional 2 TB for an additional £5 per month
-          - 5 Gig Bandwidth allocation
+          - '1,2 Gig Bandwidth allocation'
           - AES-256 Encryption on all files
           - Pro Support
           - Share storage with 2 other users
