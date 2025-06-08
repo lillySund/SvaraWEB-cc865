@@ -51,116 +51,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItemsSection
-    title:
-      text: What we can offer
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: Up to 10 TB
-        subtitle: of storage for Pro users
-        text: >
-          Up to 10 TB of storage for Pro users, starting at 2 TB you can upgrade
-          and share with other users - becuase who is going to use 10 TB of
-          data... But yeah go crazy :sob:
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: Eco-friendly
-        subtitle: for the planet
-        text: >
-          Running on 100 % renewable electricty, using second hand parts or
-          refurbished parts before buying new components, giving a second chance
-          for components.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: Super Private
-        subtitle: with one time cloud
-        text: >
-          Create a one time cloud drive with 10 GB. We will not collect your:
-          email address, IPs, passwords. You will log in with a 24 character
-          automatically generated key and that will be your log in.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
@@ -582,6 +472,116 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      text: What we can offer
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Subtitle goes here
+    items:
+      - type: FeaturedItem
+        title: Up to 10 TB
+        subtitle: of storage for Pro users
+        text: >
+          Up to 10 TB of storage for Pro users, starting at 2 TB you can upgrade
+          and share with other users - becuase who is going to use 10 TB of
+          data... But yeah go crazy :sob:
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/icon1.svg
+          styles:
+            self:
+              borderRadius: x-large
+      - title: Eco-friendly
+        subtitle: for the planet
+        text: >
+          Running on 100 % renewable electricty, using second hand parts or
+          refurbished parts before buying new components, giving a second chance
+          for components.
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - title: Super Private
+        subtitle: with one time cloud
+        text: >
+          Create a one time cloud drive with 10 GB. We will not collect your:
+          email address, IPs, passwords. You will log in with a 24 character
+          automatically generated key and that will be your log in.
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
