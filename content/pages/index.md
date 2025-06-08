@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Home - Svara
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/abstract-feature1.svg
   type: Seo
 type: PageLayout
 ---
