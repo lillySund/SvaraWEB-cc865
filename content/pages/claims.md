@@ -79,8 +79,14 @@ sections:
         title: Eco-friendly
         tagline: Claim 3
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          We use electricity providers that either have an option to allow to
+          purchase the use of **100 % Renewable Energy** or a provider that is
+          fully running on **100 % Renewable Energy.** We do not cool our
+          servers with water we use air cooling. We try and purchase second hand
+          tech, or refurbished instead of buying first hand. All tech that is
+          purchased is tested thoroughly to see if it performs as it is meant
+          to.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
