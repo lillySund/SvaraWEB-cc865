@@ -91,7 +91,7 @@ sections:
           - Pro Support
           - Choice of the amount of users
           - Admin dashboard
-          - ''
+          - Payment only via Business C
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
