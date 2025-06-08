@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: What we can offer
+      text: 'What we can offer:'
       color: text-dark
       styles:
         self:
