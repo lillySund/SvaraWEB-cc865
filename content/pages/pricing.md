@@ -26,7 +26,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Try for free for 1 month
             url: /
             icon: arrowRight
             iconPosition: right
