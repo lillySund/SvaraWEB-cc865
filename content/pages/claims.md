@@ -105,7 +105,7 @@ sections:
       - type: FeaturedItem
         title: Pro Support
         tagline: Claim 4
-        subtitle: This is the item subtitle
+        subtitle: Support within 24 hours
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
