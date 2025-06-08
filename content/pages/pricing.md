@@ -14,9 +14,8 @@ sections:
       - title: Lite
         price: £2.99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Online private storage for those who need it.
         features:
           - Feature one
           - Feature two
