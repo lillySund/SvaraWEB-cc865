@@ -81,7 +81,7 @@ sections:
         type: PricingPlan
       - title: Enterprise
         price: Contact Us
-        details: per month
+        details: ''
         description: |
           Online storage for Enterprises.
         features:
