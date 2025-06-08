@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Lite
+      - title: Basic
         price: £4
         details: per month
         description: |
