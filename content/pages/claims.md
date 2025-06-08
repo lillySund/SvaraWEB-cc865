@@ -13,7 +13,7 @@ sections:
     subtitle: Here you will find claims and other relevant information
     items:
       - type: FeaturedItem
-        title: ''
+        title: aaaa
         tagline: Claim 1
         subtitle: This is the item subtitle
         text: |
