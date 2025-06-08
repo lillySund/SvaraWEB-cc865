@@ -50,7 +50,7 @@ sections:
           Online storage, for those who really like storage?
         features:
           - 2 TB of SSD Storage
-          - Feature two
+          - 5 Gig Bandwidth allocation
           - Feature three
           - Feature four
         image:
