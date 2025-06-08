@@ -56,7 +56,7 @@ sections:
           - AES-256 Encryption on all files
           - Essential Support
           - Share storage with 2 other users
-          - Students get 20 % off
+          - Payment via Card or Mailed in Cash
           - ''
         image:
           url: /images/abstract-feature2.svg
