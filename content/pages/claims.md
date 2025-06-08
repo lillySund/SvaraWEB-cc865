@@ -48,8 +48,15 @@ sections:
         title: One time cloud
         tagline: Claim 2
         subtitle: 'We will not collect your: email address, IPs, passwords'
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          You will be allocated a 24 character random generated key and that
+          will be your log in, no emails and no passwords. When using a One time
+          cloud account your session will be put through a proxy, which will
+          make your connection more secure but it will slow down sending files
+          and downloading files. **We do not reccomend using One time cloud for
+          more than 60 days.** We also recommend using a VPN if you want to feel
+          extra secure - like Mullvad.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
