@@ -55,6 +55,7 @@ sections:
           - 5 Gig Bandwidth allocation
           - AES-256 Encryption on all files
           - Essential Support
+          - ''
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
           - ''
