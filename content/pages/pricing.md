@@ -46,9 +46,8 @@ sections:
       - title: Pro
         price: £10
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Online storage, for those who really like storage?
         features:
           - Feature one
           - Feature two
