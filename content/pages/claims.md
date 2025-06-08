@@ -2,24 +2,6 @@
 type: PageLayout
 title: Our claims
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Svara Claims
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Our claims and other information that may be relevant
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
