@@ -67,7 +67,7 @@ sections:
         text: >
           Up to 10 TB of storage for Pro users, starting at 2 TB you can upgrade
           and share with other users - becuase who is going to use 10 TB of
-          data... But yeah go crazy
+          data... But yeah go crazy :sob:
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
