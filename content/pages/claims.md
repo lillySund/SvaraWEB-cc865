@@ -76,7 +76,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Eco-friendly
         tagline: Claim 3
         subtitle: ''
         text: |
