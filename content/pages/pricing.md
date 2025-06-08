@@ -80,7 +80,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Custom
+        price: Contact Us
         details: per month
         description: |
           Online storage for Enterprises.
