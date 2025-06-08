@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Your data is
+      - title: Eco-friendly
         subtitle: actually secure
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
