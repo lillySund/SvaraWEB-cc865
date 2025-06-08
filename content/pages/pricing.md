@@ -21,7 +21,6 @@ sections:
           - 1 Gig Bandwidth allocation
           - AES-256 Encryption on all files
           - Chat Support
-          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
