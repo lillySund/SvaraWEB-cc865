@@ -94,8 +94,7 @@ sections:
         subtitle: for the planet
         text: >
           Running on 100 % renewable electricty, using second hand parts or
-          refurbished parts before buying new components. Only buying components
-          from reputable places, such as: Samsung, SanDisk, Lexar and WD.
+          refurbished parts before buying new components.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
