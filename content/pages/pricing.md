@@ -54,7 +54,7 @@ sections:
           - 5 Gig Bandwidth allocation
           - AES-256 Encryption on all files
           - Essential Support
-          - ''
+          - Payment via Card or Mailed in Cash
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
