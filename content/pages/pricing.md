@@ -90,7 +90,7 @@ sections:
           - AES-256 Encryption on all files
           - Pro Support
           - Choice of the amount of users
-          - ''
+          - Admin dashboard
           - ''
         image:
           url: /images/abstract-feature3.svg
