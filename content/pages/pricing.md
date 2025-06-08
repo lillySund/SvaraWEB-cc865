@@ -20,7 +20,7 @@ sections:
           Online private storage for those who need it.
         features:
           - 500 GB of SSD Storage
-          - 1 Gig Bandwidth allocation (May be slowed during peak hours)
+          - 600 Mbps Bandwidth allocation (May be slowed during peak hours)
           - AES-256 Encryption on all files
           - Basic Support
           - Payment via Card or Mailed in Cash
