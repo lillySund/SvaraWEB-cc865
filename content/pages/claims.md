@@ -46,7 +46,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Feature Item Two
-        tagline: This is the tagline
+        tagline: Claim 2
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
