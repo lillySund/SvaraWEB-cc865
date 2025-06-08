@@ -86,7 +86,9 @@ sections:
           Online storage for Enterprises.
         features:
           - Choice of the amount of storage
-          - Choice of network allocation (Automatically set to 5 Gig)
+          - >-
+            Choice of network allocation (Automatically set to 5 Gig, up to 10
+            Gig capabilities)
           - AES-256 Encryption on all files
           - Pro Support
           - Choice of the amount of users
