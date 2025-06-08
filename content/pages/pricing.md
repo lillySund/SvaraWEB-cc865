@@ -86,7 +86,7 @@ sections:
           Online storage for Enterprises.
         features:
           - Choice of the amount of storage
-          - Feature two
+          - Choice of network allocation (Automatically set to 5 Gig)
           - Feature three
           - Feature four
           - Feature five
