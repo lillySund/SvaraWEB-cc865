@@ -17,7 +17,7 @@ sections:
         description: |
           Online private storage for those who need it.
         features:
-          - Feature one
+          - 200 GB of SSD Storage
           - Feature two
           - Feature three
           - Feature four
