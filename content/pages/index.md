@@ -122,7 +122,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/avatar1.svg
+          url: /images/person-placeholder-light.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
