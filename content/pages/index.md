@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Making cloud storage cool
       color: text-primary
       type: Badge
     elementId: ''
