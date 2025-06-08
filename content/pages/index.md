@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: Up to 10 TB
         subtitle: of storage for Pro users
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Up to 10 TB of storage for Pro users, starting at 2 TB you can upgrade
+          and share with other users - becuase who is going to use 10 TB of
+          data... Unless like you do a bunch of stuff, we don't know.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
