@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: Lite
         price: £2.99
         details: No credit card required
         description: >-
