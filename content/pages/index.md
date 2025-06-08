@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We do not use your data to train AI, we as a team are not fond of AI, so
+      you will not even see one bit of AI anywhere on this site. 
     actions:
       - label: Get started
         altText: ''
