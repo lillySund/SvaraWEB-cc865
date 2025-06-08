@@ -54,7 +54,7 @@ sections:
           - Additional 2 TB for an additional £5 per month
           - 5 Gig Bandwidth allocation
           - AES-256 Encryption on all files
-          - Essential Support
+          - Pro Support
           - Share storage with 2 other users
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
