@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: What else we offer
+        label: What else we offer & our claims
         altText: ''
         url: /
         showIcon: false
