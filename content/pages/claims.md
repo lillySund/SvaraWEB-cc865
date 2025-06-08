@@ -16,8 +16,16 @@ sections:
         title: 256-Encryption as standard
         tagline: Claim 1
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          You have an option to have an automatically generated encryption and
+          decryption key, or you can create your own. By doing this, **you**
+          will be the one encrypting and decrypting your data — **not us**.
+          While your data is decrypted, it remains accessible only to you within
+          your local environment and is never transmitted or stored in an
+          unencrypted form on our servers.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
