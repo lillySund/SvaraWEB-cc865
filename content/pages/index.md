@@ -118,8 +118,8 @@ sections:
       - title: Super Private
         subtitle: with one time cloud
         text: >
-          Create a one time cloud drive with 10 GB. We will not collect your:
-          email address, IPs, passwords. You will log in with a 24 character
+          Create a one time cloud drive. We will not collect your: email
+          address, IPs, passwords. You will log in with a 24 character
           automatically generated key and that will be your log in.
         image:
           url: /images/icon3.svg
