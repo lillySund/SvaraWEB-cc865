@@ -19,7 +19,7 @@ sections:
         features:
           - 200 GB of SSD Storage
           - 1 Gig Bandwidth allocation
-          - Feature three
+          - E
           - Feature four
         image:
           url: /images/abstract-feature1.svg
