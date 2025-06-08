@@ -92,7 +92,7 @@ sections:
           - Choice of the amount of users
           - Admin dashboard
           - Payment only via Business Cards
-          - ''
+          - Email hosting available with a custom domain
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
