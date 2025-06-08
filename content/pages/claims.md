@@ -103,7 +103,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Pro Support
         tagline: Claim 4
         subtitle: This is the item subtitle
         text: |
