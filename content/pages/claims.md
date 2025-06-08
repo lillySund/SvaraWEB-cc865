@@ -45,7 +45,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: One time cloud
         tagline: Claim 2
         subtitle: This is the item subtitle
         text: |
