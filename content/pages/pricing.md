@@ -17,7 +17,7 @@ sections:
         description: |
           Online private storage for those who need it.
         features:
-          - 200 GB of SSD Storage
+          - 500 GB of SSD Storage
           - 1 Gig Bandwidth allocation (May be slowed during peak hours)
           - AES-256 Encryption on all files
           - Basic Support
