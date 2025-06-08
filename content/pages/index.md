@@ -12,7 +12,7 @@ sections:
       We do not use your data to train AI, we as a team are not fond of AI, so
       you will not even see one bit of AI anywhere on this site. 
     actions:
-      - label: Get started
+      - label: Pricing
         altText: ''
         url: /
         showIcon: false
