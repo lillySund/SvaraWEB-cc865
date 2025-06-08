@@ -7,7 +7,7 @@ sections:
       text: Allow yourself to feel at ease knowing your data is safe
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: with 256-Encryption as standard
     text: >
       We do not use your data to train AI, we as a team are not fond of AI, so
       you will not even see one bit of AI anywhere on this site. 
