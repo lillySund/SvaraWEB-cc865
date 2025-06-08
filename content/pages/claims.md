@@ -47,7 +47,7 @@ sections:
       - type: FeaturedItem
         title: One time cloud
         tagline: Claim 2
-        subtitle: This is the item subtitle
+        subtitle: Not
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
