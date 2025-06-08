@@ -97,7 +97,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\nPowered by Github\n\nMade with ❤ in Sweden and UK\n\n",
+    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n, Powered by Github\n\n, Made with ❤ in Sweden and UK\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
