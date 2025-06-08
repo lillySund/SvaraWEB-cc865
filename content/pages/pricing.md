@@ -85,7 +85,7 @@ sections:
         description: |
           Online storage for Enterprises.
         features:
-          - Choice of the amount ofstorage
+          - Choice of the amount of storage
           - Feature two
           - Feature three
           - Feature four
