@@ -13,23 +13,15 @@ sections:
     subtitle: Here you will find claims and other relevant information
     items:
       - type: FeaturedItem
-        title: 256-Encryption as standard
-        tagline: Claim 1
-        subtitle: ''
-        text: >+
-          You have an option to have an automatically generated encryption and
-          decryption key, or you can create your own. By doing this, **you**
-          will be the one encrypting and decrypting your data — **not us**.
-          While your data is decrypted, it remains accessible only to you within
-          your local environment and is never transmitted or stored in an
-          unencrypted form on our servers.
-
-
-
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
-          altText: Background alt text
+          altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
