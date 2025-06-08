@@ -116,7 +116,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Super Private
-        subtitle: option
+        subtitle: with one time cloud
         text: >
           Create a one time cloud drive with 10 GB of storage for £1 (only
           accepted in cash). We will not collect your: email address, IPs,
