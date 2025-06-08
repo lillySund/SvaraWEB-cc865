@@ -61,6 +61,7 @@ sections:
           - Share storage with 2 other users
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
