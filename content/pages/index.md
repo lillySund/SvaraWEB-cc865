@@ -92,10 +92,10 @@ sections:
               borderRadius: x-large
       - title: Eco-friendly
         subtitle: for the planet
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Running on 100 % renewable electricty, using second hand parts or
+          refurbished parts before buying new components. Only buying components
+          from reputable places.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
