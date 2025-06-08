@@ -53,7 +53,7 @@ sections:
           - Additional 2 TB for an additional £5 per month
           - 5 Gig Bandwidth allocation
           - AES-256 Encryption on all files
-          - Feature four
+          - Essential Support
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
