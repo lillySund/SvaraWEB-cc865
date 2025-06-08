@@ -89,7 +89,7 @@ sections:
           - Choice of network allocation (Automatically set to 5 Gig)
           - AES-256 Encryption on all files
           - Pro Support
-          - Feature five
+          - Choice of the amount of users
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
