@@ -22,6 +22,7 @@ sections:
           - AES-256 Encryption on all files
           - Basic Support
           - Payment via Card or Mailed in Cash
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
