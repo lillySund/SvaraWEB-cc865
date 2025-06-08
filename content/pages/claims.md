@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Here you will find claims and other relevant information
     items:
       - type: FeaturedItem
         title: Feature Item One
