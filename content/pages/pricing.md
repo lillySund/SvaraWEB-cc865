@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Lite
         price: £2.99
-        details: No credit card required
+        details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
