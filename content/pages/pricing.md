@@ -49,7 +49,7 @@ sections:
         description: |
           Online storage, for those who really like storage?
         features:
-          - Feature one
+          - 2 TB of SSD Storage
           - Feature two
           - Feature three
           - Feature four
