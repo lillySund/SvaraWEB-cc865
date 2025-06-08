@@ -20,7 +20,7 @@ sections:
           - 200 GB of SSD Storage
           - 1 Gig Bandwidth allocation
           - AES-256 Encryption on all files
-          - Feature four
+          - Chat Support
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
