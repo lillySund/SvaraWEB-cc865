@@ -82,9 +82,8 @@ sections:
       - title: Enterprise
         price: Custom
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Online storage for Enterprises.
         features:
           - Feature one
           - Feature two
