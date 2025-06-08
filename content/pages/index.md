@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Svara
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Svara UK offering multiple services with privacy in mind.
   socialImage: /images/abstract-feature1.svg
   type: Seo
 type: PageLayout
