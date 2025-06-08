@@ -90,6 +90,7 @@ sections:
           - AES-256 Encryption on all files
           - Pro Support
           - Choice of the amount of users
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
