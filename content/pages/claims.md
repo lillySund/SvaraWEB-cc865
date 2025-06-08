@@ -47,7 +47,7 @@ sections:
       - type: FeaturedItem
         title: One time cloud
         tagline: Claim 2
-        subtitle: Not
+        subtitle: 'We will not collect your: email address, IPs, passwords'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
