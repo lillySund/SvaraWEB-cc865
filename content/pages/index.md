@@ -9,8 +9,9 @@ sections:
       type: TitleBlock
     subtitle: with 256-Encryption as standard
     text: >
-      We do not use your data to train AI, we as a team are not fond of AI, so
-      you will not even see one bit of AI anywhere on this site. 
+      In addition to that, we do not use your data to train AI (unlike over
+      provider <*cough* *Google>*, we as a team are not fond of AI, so you will
+      not even see one bit of AI anywhere on this site.
     actions:
       - label: Pricing
         altText: ''
