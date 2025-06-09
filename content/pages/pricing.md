@@ -54,7 +54,7 @@ sections:
           Online private storage, for those who really like storage?
         features:
           - 1 TB of SSD Storage
-          - Additional 1 TB for an additional £5 per month (Up to 10TB)
+          - Additional 3 TB for an additional £10 per month (Up to 10TB)
           - '1,2 Gig Bandwidth allocation'
           - AES-256 Encryption on all files
           - Pro Support
