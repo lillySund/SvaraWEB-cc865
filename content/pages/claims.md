@@ -107,10 +107,11 @@ sections:
         tagline: Claim 4
         subtitle: Support within 24 hours
         text: >
-          We can only get back to you within 24 hours either on Discord or
-          within the built in chat that is on the website. On Discord, you can
+          We can only get back to you within **24 hours either on Discord or
+          within the built in chat that is on the website.** On Discord, you can
           create a support ticket. And on Web chat, you can create a chat with
-          the chat bubble in the corner of the screen.
+          the chat bubble in the corner of the screen. **There is a low chance
+          we will get back to you if you contact us via, Email.**
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
