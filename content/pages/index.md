@@ -345,6 +345,11 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+        - type: CheckboxFormControl
+          name: I agree that my data will be processed internally by Svara
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
