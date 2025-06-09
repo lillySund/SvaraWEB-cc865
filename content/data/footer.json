@@ -3,7 +3,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "We wish you a happy \\[day]!\n\nsvara.uk\n\n<help@svara.uk>\n",
+    "text": "svara.uk\nhelp\\@svara.uk\n",
     "primaryLinks": {
         "title": "Cloud storage",
         "links": [
