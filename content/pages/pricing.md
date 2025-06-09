@@ -61,7 +61,7 @@ sections:
           - Share storage with 2 other users
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
-          - One time drive as an option (No Free trail included when selected)
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
