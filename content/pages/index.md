@@ -347,7 +347,9 @@ sections:
           type: TextareaFormControl
         - type: CheckboxFormControl
           name: I agree for my data to be processed by Svara
-          label: I have read and accept the legal terms.
+          label: >-
+            I agree for my data to be processed by Svara, your data will be
+            stored internally and won't be shared outside of the organisation.
           isRequired: false
           width: full
       elementId: contact-form
