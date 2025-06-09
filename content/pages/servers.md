@@ -49,13 +49,6 @@ sections:
       Gb/s                                             | 0/715              |
       N/A       | Yes                                          |
 
-      | PL\_W2\_MSR     | Warsaw, PL    | T-Mobile PL
-
-      (t-mobile.pl)  | N/A        | 900
-      Mb/s                                       | 300
-      Mb/s                                           | 0/300              |
-      N/A       | No, use PL\_W1\_ERS (closest)                |
-
       | SE\_S1\_DNH     | Stockholm, SE | Svara                          |
       N/A        | 900 Mb/s                                       | 900
       Mb/s                                           | 0/400              |
