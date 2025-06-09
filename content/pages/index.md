@@ -318,11 +318,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: You can contact us here
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We will try our best to get back to you within 4 business days. If you
+      have any questions, then ask away. If you want to create your own plan,
+      please specifiy: Amount of storage you want, Bandwidth allocation and
+      anything else that may be relevant.
     media:
       fields:
         - name: name
