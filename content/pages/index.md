@@ -273,8 +273,8 @@ sections:
       type: TitleBlock
     subtitle: Students get 20 % off on all plans.
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      With multiple ways to verify! Verification is manual so this process may
+      take some time.
     actions:
       - label: Pricing
         url: /pricing
