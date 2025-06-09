@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Privacy
         altText: ''
-        url: /
+        url: /privacy
         showIcon: true
         icon: arrowRight
         iconPosition: right
