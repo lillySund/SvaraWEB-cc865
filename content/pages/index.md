@@ -231,7 +231,7 @@ sections:
       and this isn't an instant process. 
     actions:
       - type: Button
-        label: Get started
+        label: Create your own plan
         altText: ''
         url: /contact
         showIcon: false
