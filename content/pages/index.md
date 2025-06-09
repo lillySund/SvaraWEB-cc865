@@ -350,7 +350,7 @@ sections:
           label: >-
             I agree for my data to be processed by Svara, your data will be
             stored internally and won't be shared outside of the organisation.
-          isRequired: false
+          isRequired: true
           width: full
       elementId: contact-form
       styles:
