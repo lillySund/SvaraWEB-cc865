@@ -77,11 +77,11 @@ sections:
       if turned off we will see you as an account number (Example: XXX-XXXXX) -
       you can opt out of sharing your email, later on after you have created
       your account in the settings tab in your dashboard)
-
+          **Students may have to share their email with the way they verify.**
 
       *   Name (you can either input a name or not have a name at all, we will
       refer to you as your account number)
-
+          **Students may have to share their name with the way they verify.**
 
       ## 1.1.2.4 - Data collection
 
@@ -175,6 +175,62 @@ sections:
       able to track payments in order to give customers the service we offer.
 
 
+      ## 1.4 - Students
+
+
+      Students get 20 % off! A real human will verify if you are a student and
+      say where you study, so this process may take sometime. Currently we can
+      only verify students within the EU/EEA/UK. 
+
+
+      We have teirs on the chances of you getting verified as a student (kind of
+      like Github) These teirs are:
+
+
+      *   Good - Sufficient proof to prove you are a student, high chance of
+      being accepted.
+
+
+      *   Ok - Just enough proof to prove you are a student, 50/50 chance of
+      being accepted.
+
+
+      *   Fair - You want to be private and not share information (we get it),
+      low chance of being accepted.
+
+
+      Currently these are the only ways you can prove you are a student:
+
+
+      *   Sending us a Student ID, Printer Scan (PDF Format) (Front and Back):
+      Good
+
+
+      *   You verify with your email with a code (Email must end in .ac.uk or
+      .ac or .gov or an educational institution domain): Good
+
+
+      *   You send us a code with your school email (Email must end in .ac.uk or
+      .ac or .gov or an educational institution domain): Good
+
+
+      *   Acceptance to an educational institution: Ok
+
+
+      *   Your class schedule: Fair
+
+
+      *   Your school portal with school name and/or domain: Fair 
+
+
+      ## 1.4.1 - Student Information
+
+
+      After you have verified with the preferred method, you will be verified as
+      a student for two years. Anything you have sent us to verify that you are
+      a student will be deleted 7 days after your verification. Your profile
+      will come up with either a "\[S]" infront of your account number to
+      indicate you are a student.
 
     actions: []
     badge:
