@@ -151,7 +151,7 @@ sections:
       - type: Button
         label: What else we offer & our claims
         altText: ''
-        url: /
+        url: /claims
         showIcon: false
         icon: arrowRight
         iconPosition: right
