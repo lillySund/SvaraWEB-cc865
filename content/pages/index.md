@@ -283,7 +283,7 @@ sections:
         style: secondary
         type: Button
       - label: Privacy
-        url: /
+        url: /privacy
         showIcon: true
         icon: arrowRight
         iconPosition: right
