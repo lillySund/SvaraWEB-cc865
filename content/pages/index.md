@@ -276,7 +276,7 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get started
+      - label: Pricing
         url: /
         icon: arrowRight
         iconPosition: right
