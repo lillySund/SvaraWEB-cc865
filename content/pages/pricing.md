@@ -14,7 +14,7 @@ sections:
       tailored for you, you can always contact us.
     plans:
       - title: Basic
-        price: £2
+        price: '£2,50'
         details: per month
         description: |
           Online private storage for those who need it.
