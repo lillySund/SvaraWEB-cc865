@@ -85,8 +85,10 @@ sections:
       - title: Indivuduals & Businesses
         price: Contact Us
         details: ''
-        description: |
-          Online storage for Enterprises.
+        description: >
+
+          Online storage for Indivudals and Businesses, who need specific
+          demands.
         features:
           - Choice of the amount of storage
           - 'Choice of network allocation (1,2 Gig, 2,4 Gig, 5 Gig)'
