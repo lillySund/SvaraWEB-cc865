@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: We do plan to expand our server locations soon.
+    subtitle: >-
+      Our server locations are slowly expanding, within your dashboard you can
+      always request to change where your data is stored, (not 100 % guranteed)
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
