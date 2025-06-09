@@ -64,6 +64,13 @@
             "url": "help@svara.uk",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Vimeo link",
+            "url": "/",
+            "icon": "twitter",
+            "elementId": ""
         }
     ],
     "legalLinks": [
