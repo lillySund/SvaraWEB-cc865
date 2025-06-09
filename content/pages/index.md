@@ -271,7 +271,7 @@ sections:
       text: Discount
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Students get 20 % off on all plans.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
