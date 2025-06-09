@@ -23,7 +23,7 @@
         {
             "label": "Privacy",
             "altText": "Privacy Page",
-            "url": "/careers",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
