@@ -277,7 +277,7 @@ sections:
       businesses.
     actions:
       - label: Pricing
-        url: /
+        url: /pricing
         icon: arrowRight
         iconPosition: right
         style: secondary
