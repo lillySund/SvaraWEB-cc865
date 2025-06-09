@@ -346,7 +346,7 @@ sections:
           width: full
           type: TextareaFormControl
         - type: CheckboxFormControl
-          name: I agree that my data will be processed internally by Svara
+          name: I agree for my data to be processed by Svara
           label: I have read and accept the legal terms.
           isRequired: false
           width: full
