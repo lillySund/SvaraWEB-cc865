@@ -25,7 +25,7 @@ sections:
           - Basic Support
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
-          - One time drive as an option (No Free trail included when selected)
+          - One time drive as an option
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
