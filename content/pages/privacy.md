@@ -11,6 +11,9 @@ sections:
       This page will include how your data is handeled and other data
       information.
     text: >+
+      Last updated: June 9, 2025
+
+
       ## 1.1 - Your data
 
 
@@ -96,6 +99,82 @@ sections:
 
 
       *   We do not collect Cookies or other browser data to profile you.
+
+
+      *   Payment Data will be collected (For more information please go to 1.3
+      - Payments)
+
+
+      *   Any data collected will be stored within the EU/EEA.
+
+
+      ## 1.2 - Svara One time accounts (SOTA)
+
+
+      One time accounts are useful when you want to stay annonymous when sharing
+      files. We do not recommend using a one time account for more than 60 days
+      - this is due to a higher chance of having your one time account
+      intercepted by another user. This can happen due to one time accounts
+      having a 32 - 64 character key as a log in, and not having sufficient
+      security (like a username and password) in the long term.
+
+
+      When creating a one time account you can choose between a Lite SOTA or a
+      Pro SOTA. We will not collect:
+
+
+      *   Names
+
+
+      *   Email addresses
+
+
+      *   Passwords
+
+
+      This is due to accounts only having a 24 character key is a log in.
+
+
+      With a one time account, you will not have access to these features:
+
+
+      *   Chat Support
+
+
+      *   2FA
+
+
+      *   Using a Security Key as a encryption and decryption method
+
+
+      *   You will not be able to change your account to a standard account
+
+
+      ## 1.3 - Payments
+
+
+      There are three main payment options:
+
+
+      1.  Stripe: Stripe charge ID, expiry date of the card, last 4 digits of
+      the card, card type and country of origin.
+
+
+      2.  Paypal with Stripe: transaction ID, sender name, origin country and
+      email address.
+
+
+      3.  Cash
+
+
+      ## 1.3.2 - Payment data
+
+
+      We do not offer a refund policy, we will hold this data for 7 days and you
+      have the right to save the receipt from Stripe or Paypal. We need to be
+      able to track payments in order to give customers the service we offer.
+
+
 
     actions: []
     badge:
