@@ -229,7 +229,16 @@ sections:
     text: >
       You can contact us and create your own plan, you will have to contact us
       and this isn't an instant process. 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /contact
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
