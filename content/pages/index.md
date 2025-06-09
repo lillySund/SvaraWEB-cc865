@@ -177,12 +177,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Modern design, easy to use'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: This is a subtitle
+    text: >
+
+      Built for teams and individuals who need efficient file management.
+      Secure, scalable, and designed to fit seamlessly into your workflow.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
