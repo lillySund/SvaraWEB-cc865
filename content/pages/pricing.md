@@ -82,7 +82,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Indivuduals who need Specific features & Businesses/Enterprises
+      - title: Indivuduals & Businesses
         price: Contact Us
         details: ''
         description: |
