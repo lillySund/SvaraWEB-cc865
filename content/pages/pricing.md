@@ -13,7 +13,7 @@ sections:
       Plans made to suit all, if you are an individual and want something more
       tailored for you, you can always contact us.
     plans:
-      - title: Basic
+      - title: Lite
         price: '£2,50'
         details: per month
         description: |
