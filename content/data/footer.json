@@ -1,22 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "## svara\n\n<help@svara.uk>\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Cloud storage",
         "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
             {
                 "label": "Pricing",
                 "url": "/pricing",
@@ -26,18 +16,21 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "type": "Link",
+                "label": "Our claims",
+                "altText": "",
+                "url": "/claims",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "svara",
         "links": [
             {
                 "label": "Careers",
@@ -62,27 +55,22 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/svara-uk",
             "icon": "github",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
-            "url": "/",
+            "url": "help@svara.uk",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Vimeo link",
+            "url": "/",
+            "icon": "twitter",
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -96,14 +84,14 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Powered by Github, Not affiliated with Github, Made with ❤ in Sweden and in the UK\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
