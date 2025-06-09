@@ -1,7 +1,7 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/svara2.PNG",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "Svara",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
