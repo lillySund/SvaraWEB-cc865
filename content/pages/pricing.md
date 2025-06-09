@@ -94,7 +94,7 @@ sections:
           - Pro Support
           - Choice of the amount of users
           - Admin dashboard (For Businesses/Enterprises)
-          - Payment only via Business Cards
+          - Payment only via Card
           - Email hosting available with a custom domain
         image:
           url: /images/abstract-feature3.svg
