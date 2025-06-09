@@ -10,7 +10,7 @@ sections:
     subtitle: >-
       This page will include how your data is handeled and other data
       information.
-    text: >
+    text: >+
       ## 1.1 - Your data
 
 
@@ -32,7 +32,69 @@ sections:
       code via Email (you must have "Email Recovery" feature enabled on your
       account to follow this procedure), or you can not pay your next bill and
       block the payment with your bank (the data on your account will
-      automatically delete within 7 days). 
+      automatically delete within 7 days).
+
+
+      ## 1.1.2.1 - Data we can see
+
+
+      *   We may be able to see IPs, this means we may be able to see where
+      incoming files are coming from. If we do receieve this information, this
+      information will not be stored and will be deleted immediately. We
+      reccomend using a VPN service if you want to feel safe.
+
+
+      ## 1.1.2.2 - Data we can not see
+
+
+      *   We do not see files you store with us, your files are encrypted at all
+      times and when encrypted or decrypted by you, you only will encrypt these
+      files on your end within your session.
+
+
+      *   Passwords, passwords are yours only.
+
+
+      *   Encryption & Decryption keys, we do not see any keys that allow you to
+      encrypt or decrypt any data. We can automatically generate you one, which
+      is random - but if you want to make sure you can make your own key.
+
+
+      ## 1.1.2.3 - Data you have a choice on sharing
+
+       You have the choice to share these forms of data when creating an account:
+
+      *   Email (if turned off we can not assist you with recovering an account,
+      if turned off we will see you as an account number (Example: XXX-XXXXX) -
+      you can opt out of sharing your email, later on after you have created
+      your account in the settings tab in your dashboard)
+
+
+      *   Name (you can either input a name or not have a name at all, we will
+      refer to you as your account number)
+
+
+      ## 1.1.2.4 - Data collection
+
+
+      *   We do not collect any data apart from the data you willingly want to
+      share with us. 
+
+
+      *   We do not collect device information - such as: OS, Device
+      specifications.
+
+
+      *   We may collect browser information - such as: Browser type, Browser
+      version.
+
+
+      *   We do not collect Cookies or other browser data to profile you.
+
+
+
+
+
     actions: []
     badge:
       type: Badge
