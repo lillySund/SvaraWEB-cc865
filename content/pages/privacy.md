@@ -32,7 +32,11 @@ sections:
       code via Email (you must have "Email Recovery" feature enabled on your
       account to follow this procedure), or you can not pay your next bill and
       block the payment with your bank (the data on your account will
-      automatically delete within 7 days).
+      automatically delete within 7 days), or if you are late with a cash
+      payment then we will remind you within our portal 3 days before your data
+      gets deleted. After your data is deleted we can not recover it because we
+      do not keep backups of your data. We recommend taking backups of your data
+      yourself.
 
 
       ## 1.1.2.1 - Data we can see
@@ -62,7 +66,9 @@ sections:
 
       ## 1.1.2.3 - Data you have a choice on sharing
 
-       You have the choice to share these forms of data when creating an account:
+
+      You have the choice to share these forms of data when creating an account:
+
 
       *   Email (if turned off we can not assist you with recovering an account,
       if turned off we will see you as an account number (Example: XXX-XXXXX) -
@@ -78,7 +84,7 @@ sections:
 
 
       *   We do not collect any data apart from the data you willingly want to
-      share with us. 
+      share with us.
 
 
       *   We do not collect device information - such as: OS, Device
@@ -90,10 +96,6 @@ sections:
 
 
       *   We do not collect Cookies or other browser data to profile you.
-
-
-
-
 
     actions: []
     badge:
