@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: Privacy
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      This page will include how your data is handeled and other data
+      information.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
