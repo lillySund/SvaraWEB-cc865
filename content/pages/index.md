@@ -319,7 +319,7 @@ sections:
       type: TitleBlock
     subtitle: You can contact us here
     text: >
-      We will try our best to get back to you within 4 business days. If you
+      We will try our best to get back to you within 1 - 4 business days. If you
       have any questions, then ask away. If you want to create your own plan,
       please specifiy: Amount of storage you want, Bandwidth allocation and
       anything else that may be relevant.
