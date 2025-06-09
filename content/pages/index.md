@@ -317,7 +317,7 @@ sections:
       text: Questions or want to create your own plan?
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: You can contact us here
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
