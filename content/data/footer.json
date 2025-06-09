@@ -8,15 +8,6 @@
         "title": "Cloud storage",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "icon": "arrowRight",
