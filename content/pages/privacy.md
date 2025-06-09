@@ -10,9 +10,15 @@ sections:
     subtitle: >-
       This page will include how your data is handeled and other data
       information.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      # 1.1 - Your data
+
+
+      We do not see data you save with us, your data is encrypted and decrypted
+      by you. We do not have access to your decryption and encryption key, if
+      you lose it you will lose access to your files and we can not assist you
+      to recover these files. We either recommend 
+
     actions: []
     badge:
       type: Badge
