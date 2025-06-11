@@ -66,7 +66,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Purchase
+          - label: ''
             url: /
             icon: arrowRight
             iconPosition: right
