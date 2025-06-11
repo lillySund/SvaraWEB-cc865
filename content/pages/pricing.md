@@ -66,7 +66,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: ''
+          - label: Currently Unavailable
             url: /
             icon: arrowRight
             iconPosition: right
