@@ -2,7 +2,7 @@
 type: PageLayout
 title: Dashboard
 sections: []
-slug: empty
+slug: dashboard
 isDraft: false
 seo:
   type: Seo
