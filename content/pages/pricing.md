@@ -25,7 +25,9 @@ sections:
           - Basic Support
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
-          - One time drive as an option
+          - >-
+            One time drive as an option (Currently unavailable due to EU/EEA
+            Laws)
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
