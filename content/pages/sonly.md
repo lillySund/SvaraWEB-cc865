@@ -1,6 +1,6 @@
 ---
 title: Sim Only
-slug: pricing
+slug: sonly
 sections:
   - title:
       text: Sim Only Plans
