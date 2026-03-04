@@ -14,7 +14,7 @@ sections:
       tailored for you, you can always contact us. For broadband/WiFi scroll
       down.
     plans:
-      - title: Essential SIM
+      - title: Essential SIM (50GB)
         price: £6
         details: per month
         description: |
