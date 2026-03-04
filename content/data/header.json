@@ -22,17 +22,6 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Sim Only",
-            "altText": "",
-            "url": "/sonly",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
