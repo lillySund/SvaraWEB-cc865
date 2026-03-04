@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Sim Only
 slug: pricing
 sections:
   - title:
