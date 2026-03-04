@@ -22,7 +22,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "WiFi Plans",
             "altText": "",
             "url": "/wplans",
             "showIcon": false,
