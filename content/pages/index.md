@@ -169,33 +169,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: A good way to store files
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-
-      Built for teams and individuals who need efficient file management.
-      Secure, scalable, and designed to fit seamlessly into your workflow.
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
       text: Individuals have a choice
