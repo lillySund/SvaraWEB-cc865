@@ -20,7 +20,7 @@ sections:
         description: |
           The plan that meets everyone's needs.
         features:
-          - 100 GB of SSD Storage
+          - 50 GB
           - 600 Mbps Bandwidth allocation (May be slowed during peak hours)
           - AES-256 Encryption on all files
           - Basic Support
