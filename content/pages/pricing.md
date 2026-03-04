@@ -20,7 +20,7 @@ sections:
         description: |
           The plan that meets everyone's needs.
         features:
-          - ''
+          - Essentials Plan
           - 50 GB of Data
           - No speed caps
           - No data throttling
