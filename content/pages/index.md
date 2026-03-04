@@ -118,7 +118,7 @@ sections:
         subtitle: >-
           The first MVNO network given access to 5G Standalone on both the
           Vodafone and EE network, get speeds 10x faster than 4G. In our tests
-          we have gotten the highest download speed of: 1,320 Mbps.
+          we have gotten the highest download speed of: 1 320 Mbps.
         text: ''
         image:
           type: ImageBlock
