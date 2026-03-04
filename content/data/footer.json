@@ -8,23 +8,23 @@
         "title": "Products",
         "links": [
             {
+                "type": "Link",
+                "label": "WiFi Plans",
+                "altText": "",
+                "url": "/wplans",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "label": "Sim Only",
                 "url": "/sonly",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Our claims",
-                "altText": "",
-                "url": "/claims",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
