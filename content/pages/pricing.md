@@ -15,7 +15,7 @@ sections:
       down.
     plans:
       - title: Essential SIM
-        price: '£2,50'
+        price: £6
         details: per month
         description: |
           Online private storage for those who need it.
