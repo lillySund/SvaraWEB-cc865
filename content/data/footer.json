@@ -11,7 +11,7 @@
                 "type": "Link",
                 "label": "WiFi Plans",
                 "altText": "",
-                "url": "/claims",
+                "url": "/wplans",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
