@@ -8,14 +8,6 @@
         "title": "Products",
         "links": [
             {
-                "label": "Sim Only",
-                "url": "/sonly",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "Our claims",
                 "altText": "",
@@ -25,6 +17,14 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "label": "Sim Only",
+                "url": "/sonly",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
