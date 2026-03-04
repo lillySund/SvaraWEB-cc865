@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Pricing
         altText: ''
-        url: /pricing
+        url: /sonly
         showIcon: false
         icon: arrowRight
         iconPosition: right
