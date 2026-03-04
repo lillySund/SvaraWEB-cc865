@@ -115,7 +115,7 @@ sections:
       - type: FeaturedItem
         title: No speed caps at all
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: The first MVNO network given access to 5G Standalone on
         text: ''
         image:
           type: ImageBlock
