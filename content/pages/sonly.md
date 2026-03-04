@@ -93,7 +93,7 @@ sections:
         price: Contact Us
         details: ''
         description: |
-          Plans don't meet your needs? Contact us
+          Plans don't meet your needs? Contact us, for the reasons below.
         features:
           - Choice of the amount of storage
           - 'Choice of network allocation (1,2 Gig, 2,4 Gig, 5 Gig)'
