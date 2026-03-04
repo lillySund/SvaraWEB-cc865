@@ -14,7 +14,7 @@ sections:
     actions:
       - label: WiFi Plans
         altText: ''
-        url: /sonly
+        url: /wplans
         showIcon: false
         icon: arrowRight
         iconPosition: right
