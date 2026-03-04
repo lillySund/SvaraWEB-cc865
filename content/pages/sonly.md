@@ -97,7 +97,7 @@ sections:
         features:
           - Get verified as a student to get 20 % off.
           - Creating a bespoke plan that will suit your needs.
-          - AES-256 Encryption on all files
+          - Billing questions
           - Pro Support
           - Choice of the amount of users
           - Admin dashboard (For Businesses/Enterprises)
