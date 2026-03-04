@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Trying to make plans affordable and easy to understand
     text: >
-      In addition to that, we do not use your data to train AI (unlike otherrrr
-      provider services <*cough* Microsoft*>*, we as a team are not fond of AI,
-      so you will not even see one bit of AI anywhere on this site.
+      With only offering one plan, we hope to make plans easier to understand.
+      If you want a specific phone plan you can create a bespoke plan and we
+      will price everything for you.
     actions:
       - label: Pricing
         altText: ''
