@@ -59,7 +59,7 @@ sections:
           - Plus Plan
           - 100 GB of Data
           - 'Unlimited minutes, SMS (MMS is not included in any plans)'
-          - AES-256 Encryption on all files
+          - No speed caps
           - Pro Support
           - Share storage with 2 other users
           - Payment via Card or Mailed in Cash
