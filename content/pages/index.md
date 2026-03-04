@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Access to Three Networks
-        subtitle: of storage for Pro users
+        subtitle: ''
         text: >
           Up to 10 TB of storage for Pro users, starting at 1 TB you can upgrade
           and share with other users - becuase who is going to use 10 TB of
