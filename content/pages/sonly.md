@@ -100,7 +100,7 @@ sections:
           - Billing questions
           - Plan questions
           - Network questions
-          - Admin dashboard (For Businesses/Enterprises)
+          - Network coverage questions
           - Payment only via Card
           - Email hosting available with a custom domain
         image:
