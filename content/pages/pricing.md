@@ -23,8 +23,8 @@ sections:
           - 50 GB of Data
           - No speed caps
           - No data throttling
-          - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
           - ''
+          - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
           - Students get 20 % off
           - >-
             One time drive as an option (Currently unavailable due to EU/EEA
