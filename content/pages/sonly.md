@@ -99,7 +99,7 @@ sections:
           - Creating a bespoke plan that will suit your needs
           - Billing questions
           - Plan questions
-          - Choice of the amount of users
+          - Network questions
           - Admin dashboard (For Businesses/Enterprises)
           - Payment only via Card
           - Email hosting available with a custom domain
