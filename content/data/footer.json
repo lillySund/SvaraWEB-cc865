@@ -5,11 +5,11 @@
     },
     "text": "## svara\n\n<help@svara.uk>\n",
     "primaryLinks": {
-        "title": "Cloud storage",
+        "title": "Products",
         "links": [
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Sim Only",
+                "url": "/sonly",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

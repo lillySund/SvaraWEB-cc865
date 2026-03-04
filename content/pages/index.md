@@ -4,14 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Allow yourself to feel at ease knowing your data is safe
+      text: Free yourself from big telecom companies
       color: text-dark
       type: TitleBlock
-    subtitle: with 256-Encryption as standard
+    subtitle: Trying to make plans affordable and easy to understand
     text: >
-      In addition to that, we do not use your data to train AI (unlike otherrrr
-      provider services <*cough* Microsoft*>*, we as a team are not fond of AI,
-      so you will not even see one bit of AI anywhere on this site.
+      Offering easy and understandable plans, explaining what each part of the
+      plan does and how it will work in your favor. 
     actions:
       - label: Pricing
         altText: ''
@@ -32,12 +31,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/hero2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: Making cloud storage private
+      label: making telecom work for you
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,56 +52,30 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 'What we offer:'
-      color: text-dark
+      type: TitleBlock
+      text: 'Our main features:'
+      color: text-primary
       styles:
         self:
           textAlign: center
-      type: TitleBlock
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Up to 10 TB
-        subtitle: of storage for Pro users
-        text: >
-          Up to 10 TB of storage for Pro users, starting at 1 TB you can upgrade
-          and share with other users - becuase who is going to use 10 TB of
-          data... But yeah go crazy :sob:
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
+        title: Access to two networks
+        tagline: ''
+        subtitle: >-
+          Get access to the Vodafone and EE network and either select automatic
+          network selection or select a network manually.
+        text: ''
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-      - title: Eco-friendly
-        subtitle: for the planet
-        text: >
-          Running on 100 % renewable electricty, using second hand parts or
-          refurbished parts before buying new components, giving a second chance
-          for components.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -111,23 +84,24 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: Super Private
-        subtitle: with one time cloud
-        text: >
-          Create a one time cloud drive. We will not collect your: email
-          address, IPs, passwords. You will log in with a 24 character
-          automatically generated key and that will be your log in.
+            flexDirection: col
+      - type: FeaturedItem
+        title: Privacy focused settings
+        tagline: ''
+        subtitle: >-
+          Add an additional feature of running your data connection through a
+          VPN of your choice, encrypting all your data transmission. (Subject to
+          availability)
+        text: ''
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -136,67 +110,46 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Pricing
-        altText: ''
-        url: /pricing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-      - type: Button
-        label: What else we offer & our claims
-        altText: ''
-        url: /claims
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    elementId: ''
+            flexDirection: col
+      - type: FeaturedItem
+        title: No speed caps at all
+        tagline: ''
+        subtitle: >-
+          The first MVNO network given access to 5G Standalone on both the
+          Vodafone and EE network, get speeds 10x faster than 4G. In our tests
+          we have gotten the highest download speed of: 1 320 Mbps.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: A good way to store files
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-
-      Built for teams and individuals who need efficient file management.
-      Secure, scalable, and designed to fit seamlessly into your workflow.
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
       text: Individuals have a choice
@@ -294,15 +247,15 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Questions or want to create your own plan?
+      text: Questions or want to create your own bespoke plan?
       color: text-dark
       type: TitleBlock
     subtitle: You can contact us here
     text: >
-      We will try our best to get back to you within 1 - 4 business days. If you
-      have any questions, then ask away. If you want to create your own plan,
-      please specifiy: Amount of storage you want, Bandwidth allocation and
-      anything else that may be relevant.
+      We will try our best to get back to you within 1 - 4 business days. Tell
+      us what you would like within a phone plan, with creating a bespoke plan.
+      Mention key points such as: 4G/5G access, speed limits, IPV4/6 access,
+      amount of texts, amount of calls etc.
     media:
       fields:
         - name: name

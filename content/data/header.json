@@ -13,17 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "altText": "Privacy Page",
-            "url": "/privacy",
+            "label": "Sim Only Plans",
+            "url": "/sonly",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -31,9 +22,9 @@
         },
         {
             "type": "Link",
-            "label": "Servers",
+            "label": "WiFi Plans",
             "altText": "",
-            "url": "/servers",
+            "url": "/wplans",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -44,7 +35,7 @@
     "secondaryLinks": [
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://billing.stripe.com/p/login/3cI14naok2pc3tQ3xN0gw00",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
