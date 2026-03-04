@@ -54,7 +54,7 @@ sections:
         price: £12
         details: per month
         description: |
-          Online private storage, for those who really like storage?
+          The plan with additional perks and extra data.
         features:
           - 1 TB of SSD Storage
           - Additional 3 TB for an additional £14 per month (Up to 10 TB)
