@@ -28,7 +28,6 @@ sections:
           - 10 GB of roaming within 60 countries
           - Students get 20 % off
           - £0 spend cap
-          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
