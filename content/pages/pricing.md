@@ -15,7 +15,7 @@ sections:
       down.
     plans:
       - title: Essential SIM (50GB)
-        price: £6
+        price: £8
         details: per month
         description: |
           The plan that meets everyone's needs.
