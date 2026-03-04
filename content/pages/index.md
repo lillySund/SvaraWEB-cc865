@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Sim Only
         altText: ''
-        url: /privacy
+        url: /sonly
         showIcon: true
         icon: arrowRight
         iconPosition: right
