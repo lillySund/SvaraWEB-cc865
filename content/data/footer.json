@@ -8,7 +8,7 @@
         "title": "Products",
         "links": [
             {
-                "label": "Pricing",
+                "label": "Sim Only",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
