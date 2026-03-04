@@ -62,7 +62,7 @@ sections:
           - No speed caps
           - No data throttling
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
-          - 20 GB of roaming within 62 countries
+          - 20 GB of roaming within 60 countries
           - Students get 20 % off
           - ''
         image:
