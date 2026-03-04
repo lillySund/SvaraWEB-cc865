@@ -23,7 +23,7 @@ sections:
           - 40 GB of Data
           - No speed caps
           - No data throttling
-          - Basic Support
+          - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
           - >-
