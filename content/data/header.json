@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Sim Only Plans",
-            "url": "/sonly",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "type": "Link",
             "label": "WiFi Plans",
             "altText": "",
