@@ -50,7 +50,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Essentials Plus WiFi
+      - title: 100 GB
         price: £10
         details: per month
         description: |
