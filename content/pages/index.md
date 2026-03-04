@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Making cloud storage private
+      label: making telecom work for you
       color: text-primary
       type: Badge
     elementId: ''
