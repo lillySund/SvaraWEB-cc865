@@ -210,7 +210,7 @@ sections:
       take some time.
     actions:
       - label: Sim Only
-        url: /pricing
+        url: /sonly
         icon: arrowRight
         iconPosition: right
         style: secondary
