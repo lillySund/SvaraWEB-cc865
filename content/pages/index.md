@@ -62,7 +62,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Access to two networks
         tagline: ''
         subtitle: This is the item subtitle
         text: |
