@@ -95,7 +95,7 @@ sections:
         description: |
           Plans don't meet your needs? Contact us, for the reasons below.
         features:
-          - Choice of the amount of storage
+          - Get verified as a student to get 20 % off.
           - 'Choice of network allocation (1,2 Gig, 2,4 Gig, 5 Gig)'
           - AES-256 Encryption on all files
           - Pro Support
