@@ -20,7 +20,7 @@ sections:
         description: |
           The plan that meets everyone's needs.
         features:
-          - 50 GB
+          - 40 GB of Data
           - 600 Mbps Bandwidth allocation (May be slowed during peak hours)
           - AES-256 Encryption on all files
           - Basic Support
