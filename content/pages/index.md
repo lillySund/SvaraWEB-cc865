@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Privacy
+      - label: Sim Only
         altText: ''
         url: /privacy
         showIcon: true
