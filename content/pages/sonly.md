@@ -11,8 +11,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       Plans made to suit all, if you are an individual and want something more
-      tailored for you, you can always contact us. For broadband/WiFi scroll
-      down.
+      tailored for you, you can always contact us.
     plans:
       - title: 50 GB
         price: £8
