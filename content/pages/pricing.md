@@ -27,9 +27,7 @@ sections:
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
           - 10 GB of roaming within 60 countries
           - Students get 20 % off
-          - >-
-            One time drive as an option (Currently unavailable due to EU/EEA
-            Laws)
+          - £0 spend cap
           - ''
         image:
           url: /images/abstract-feature1.svg
