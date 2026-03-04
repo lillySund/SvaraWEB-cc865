@@ -51,7 +51,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: 100 GB
-        price: £12
+        price: £14
         details: per month
         description: |
           The plan with additional perks and extra data.
