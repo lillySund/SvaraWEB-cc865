@@ -22,7 +22,7 @@ sections:
         features:
           - 40 GB of Data
           - No speed caps
-          - AES-256 Encryption on all files
+          - No data throttling
           - Basic Support
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
