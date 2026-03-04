@@ -61,7 +61,7 @@ sections:
           - 'Unlimited minutes, SMS (MMS is not included in any plans)'
           - No speed caps
           - No data throttling
-          - 'Access to 4G, 5G Non-Standalone, 5G Standalone'
+          - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
         image:
