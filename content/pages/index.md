@@ -114,29 +114,6 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Super Private
-        subtitle: with one time cloud
-        text: >
-          Create a one time cloud drive. We will not collect your: email
-          address, IPs, passwords. You will log in with a 24 character
-          automatically generated key and that will be your log in.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
     actions:
       - label: Pricing
         altText: ''
