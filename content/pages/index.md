@@ -88,8 +88,7 @@ sections:
         title: Privacy focused settings
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
