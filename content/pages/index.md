@@ -92,7 +92,7 @@ sections:
       - title: Eco-friendly
         subtitle: for the planet
         text: >
-          Running on 100 % renewable electricty, using second hand parts or
+          Running on 100 % renewable electricity, using second hand parts or
           refurbished parts before buying new components, giving a second chance
           for components.
         image:
