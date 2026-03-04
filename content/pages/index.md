@@ -12,7 +12,7 @@ sections:
       Offering easy and understandable plans, explaining what each part of the
       plan does and how it will work in your favor. 
     actions:
-      - label: Pricing
+      - label: WiFi Plans
         altText: ''
         url: /sonly
         showIcon: false
