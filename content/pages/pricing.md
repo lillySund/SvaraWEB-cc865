@@ -18,7 +18,7 @@ sections:
         price: £6
         details: per month
         description: |
-          Online private storage for those who need it.
+          The plan that meets everyone's needs.
         features:
           - 100 GB of SSD Storage
           - 600 Mbps Bandwidth allocation (May be slowed during peak hours)
