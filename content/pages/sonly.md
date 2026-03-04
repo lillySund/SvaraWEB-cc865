@@ -64,6 +64,7 @@ sections:
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
           - 20 GB of roaming within 62 countries
           - Students get 20 % off
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
