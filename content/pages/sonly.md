@@ -51,7 +51,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: 100 GB
-        price: £10
+        price: £12
         details: per month
         description: |
           Online private storage, for those who really like storage?
