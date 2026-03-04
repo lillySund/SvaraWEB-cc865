@@ -25,6 +25,7 @@ sections:
           - No speed caps
           - No data throttling
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
+          - ''
           - Students get 20 % off
           - >-
             One time drive as an option (Currently unavailable due to EU/EEA
