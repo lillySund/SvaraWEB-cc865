@@ -98,7 +98,7 @@ sections:
           - Get verified as a student to get 20 % off
           - Creating a bespoke plan that will suit your needs
           - Billing questions
-          - Pro Support
+          - Plan questions
           - Choice of the amount of users
           - Admin dashboard (For Businesses/Enterprises)
           - Payment only via Card
