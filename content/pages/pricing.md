@@ -11,7 +11,8 @@ sections:
       type: TitleBlock
     subtitle: >-
       Plans made to suit all, if you are an individual and want something more
-      tailored for you, you can always contact us.
+      tailored for you, you can always contact us. For broadband/WiFi scroll
+      down.
     plans:
       - title: Essential SIM
         price: '£2,50'
