@@ -58,7 +58,7 @@ sections:
         features:
           - Plus Plan
           - 100 GB of Data
-          - '1,2 Gig Bandwidth allocation'
+          - 'Unlimited minutes, SMS (MMS is not included in any plans)'
           - AES-256 Encryption on all files
           - Pro Support
           - Share storage with 2 other users
