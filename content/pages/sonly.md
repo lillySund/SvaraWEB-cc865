@@ -96,7 +96,7 @@ sections:
           Plans don't meet your needs? Contact us, for the reasons below.
         features:
           - Get verified as a student to get 20 % off
-          - Creating a bespoke plan that will suit your needs.
+          - Creating a bespoke plan that will suit your needs
           - Billing questions
           - Pro Support
           - Choice of the amount of users
