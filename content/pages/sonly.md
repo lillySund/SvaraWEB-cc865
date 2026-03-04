@@ -56,7 +56,7 @@ sections:
         description: |
           The plan with additional perks and extra data.
         features:
-          - 1 TB of SSD Storage
+          - Plus Plan
           - Additional 3 TB for an additional £14 per month (Up to 10 TB)
           - '1,2 Gig Bandwidth allocation'
           - AES-256 Encryption on all files
