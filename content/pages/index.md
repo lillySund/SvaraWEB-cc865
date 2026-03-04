@@ -209,7 +209,7 @@ sections:
       With multiple ways to verify! Verification is manual so this process may
       take some time.
     actions:
-      - label: Pricing
+      - label: Sim Only
         url: /pricing
         icon: arrowRight
         iconPosition: right
