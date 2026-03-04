@@ -13,7 +13,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Essentials Plus
         price: Free
         details: No credit card required
         description: >-
@@ -77,12 +77,12 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        title: Indivuduals & Businesses
+        price: Contact Us
+        details: ''
+        description: >
+          Online storage for Indivudals and Businesses, who need specific
+          demands.
         features:
           - Feature one
           - Feature two
