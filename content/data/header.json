@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Sim Only Plans",
-            "url": "/pricing",
+            "url": "/sonly",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
