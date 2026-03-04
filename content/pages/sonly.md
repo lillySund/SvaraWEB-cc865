@@ -62,7 +62,7 @@ sections:
           - No speed caps
           - No data throttling
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
-          - Payment via Card or Mailed in Cash
+          - 20 GB of roaming within 60
           - Students get 20 % off
         image:
           url: /images/abstract-feature2.svg
