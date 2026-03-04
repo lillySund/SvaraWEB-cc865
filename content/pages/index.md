@@ -110,7 +110,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: zz
+        title: No speed caps at all
         tagline: ''
         subtitle: This is the item subtitle
         text: |
