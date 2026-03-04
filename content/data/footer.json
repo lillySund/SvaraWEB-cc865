@@ -9,7 +9,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "Our claims",
+                "label": "WiFi Plans",
                 "altText": "",
                 "url": "/claims",
                 "showIcon": false,
