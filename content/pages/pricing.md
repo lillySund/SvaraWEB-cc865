@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing made for all
+      text: Sim Only Plans
       color: text-dark
       styles:
         self:
