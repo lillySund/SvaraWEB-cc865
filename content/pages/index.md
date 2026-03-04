@@ -216,7 +216,7 @@ sections:
         style: secondary
         type: Button
       - label: WiFi Plans
-        url: /privacy
+        url: /wplans
         showIcon: true
         icon: arrowRight
         iconPosition: right
