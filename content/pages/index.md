@@ -64,7 +64,9 @@ sections:
       - type: FeaturedItem
         title: Access to two networks
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Get access to the Vodafone and EE network and either select automatic
+          network selection or select a network manually.
         text: ''
         image:
           type: ImageBlock
