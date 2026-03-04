@@ -78,7 +78,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Indivuduals & Businesses
-        price: Custom
+        price: Contact Us
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
