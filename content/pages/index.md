@@ -89,7 +89,10 @@ sections:
       - type: FeaturedItem
         title: Privacy focused settings
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Add an additional feature of running your data connection through a
+          VPN of your choice, encrypting all your data transmission. (Subject to
+          availability)
         text: ''
         image:
           type: ImageBlock
