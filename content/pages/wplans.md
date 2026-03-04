@@ -80,9 +80,9 @@ sections:
         title: Indivuduals & Businesses
         price: Contact Us
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Online storage for Indivudals and Businesses, who need specific
+          demands.
         features:
           - Feature one
           - Feature two
