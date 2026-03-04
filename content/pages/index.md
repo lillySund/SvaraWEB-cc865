@@ -7,7 +7,7 @@ sections:
       text: Free yourself from big telecom companies
       color: text-dark
       type: TitleBlock
-    subtitle: with 256-Encryption as standard
+    subtitle: Trying to make plans affordable and easy to understand
     text: >
       In addition to that, we do not use your data to train AI (unlike otherrrr
       provider services <*cough* Microsoft*>*, we as a team are not fond of AI,
