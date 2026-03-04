@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Allow yourself to feel at ease knowing your data is safe
+      text: Free yourself from big telecom companies
       color: text-dark
       type: TitleBlock
     subtitle: with 256-Encryption as standard
