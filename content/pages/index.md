@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Trying to make plans affordable and easy to understand
     text: >
-      With only offering one plan, we hope to make plans easier to understand.
-      If you want a specific phone plan you can create a bespoke plan and we
-      will price everything for you.
+      Offering easy and understandable plans, explaining what each part of the
+      plan does and how it will work in your favor. 
     actions:
       - label: Pricing
         altText: ''
