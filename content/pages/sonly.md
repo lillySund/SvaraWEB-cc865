@@ -96,7 +96,7 @@ sections:
           Plans don't meet your needs? Contact us, for the reasons below.
         features:
           - Get verified as a student to get 20 % off.
-          - 'Choice of network allocation (1,2 Gig, 2,4 Gig, 5 Gig)'
+          - Creating a bespoke plan that will suit your needs.
           - AES-256 Encryption on all files
           - Pro Support
           - Choice of the amount of users
