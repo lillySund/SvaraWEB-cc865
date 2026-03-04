@@ -60,7 +60,7 @@ sections:
           - 100 GB of Data
           - 'Unlimited minutes, SMS (MMS is not included in any plans)'
           - No speed caps
-          - Pro Support
+          - No data throttling
           - Share storage with 2 other users
           - Payment via Card or Mailed in Cash
           - Students get 20 % off
