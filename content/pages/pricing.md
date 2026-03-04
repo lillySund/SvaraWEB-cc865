@@ -21,7 +21,7 @@ sections:
           The plan that meets everyone's needs.
         features:
           - 40 GB of Data
-          - 600 Mbps Bandwidth allocation (May be slowed during peak hours)
+          - No speed caps
           - AES-256 Encryption on all files
           - Basic Support
           - Payment via Card or Mailed in Cash
