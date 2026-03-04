@@ -49,7 +49,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Pro
+      - title: Essentials Plus WiFi
         price: £10
         details: per month
         description: |
