@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      WiFi Plans made for you, you can contact us if you would like a custom
+      WiFi plan
     plans:
       - type: PricingPlan
         title: Essentials Plus
