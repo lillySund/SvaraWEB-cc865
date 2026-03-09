@@ -55,7 +55,7 @@ sections:
         description: |
           The plan with additional perks and extra data.
         features:
-          - Plus Plan
+          - 'Plus Plan: additional roaming countries included'
           - 100 GB of Data
           - 'Unlimited minutes, SMS (MMS is not included in any plans)'
           - No speed caps
