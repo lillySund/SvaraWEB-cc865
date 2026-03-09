@@ -1,9 +1,9 @@
 ---
-title: Pricing
-slug: pricing
+title: Sim Only
+slug: sonly
 sections:
   - title:
-      text: Flexible Pricing made for all
+      text: Sim Only Plans
       color: text-dark
       styles:
         self:
@@ -13,21 +13,21 @@ sections:
       Plans made to suit all, if you are an individual and want something more
       tailored for you, you can always contact us.
     plans:
-      - title: Lite
-        price: '£2,50'
+      - title: 50 GB Essentials
+        price: £8
         details: per month
         description: |
-          Online private storage for those who need it.
+          The plan that meets everyone's needs.
         features:
-          - 100 GB of SSD Storage
-          - 600 Mbps Bandwidth allocation (May be slowed during peak hours)
-          - AES-256 Encryption on all files
-          - Basic Support
-          - Payment via Card or Mailed in Cash
+          - Essentials Plan
+          - 50 GB of Data
+          - 'Unlimited minutes, SMS (MMS is not included in any plans)'
+          - No speed caps
+          - No data throttling
+          - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
+          - 25 GB of roaming within 50 countries
           - Students get 20 % off
-          - >-
-            One time drive as an option (Currently unavailable due to EU/EEA
-            Laws)
+          - '£0 spend cap: you will never go over the amount you pay for the plan'
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
@@ -49,26 +49,30 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Pro
-        price: £10
+      - title: 100 GB Plus
+        price: £14
         details: per month
         description: |
-          Online private storage, for those who really like storage?
+          The plan with additional perks and extra data.
         features:
-          - 1 TB of SSD Storage
-          - Additional 3 TB for an additional £14 per month (Up to 10 TB)
-          - '1,2 Gig Bandwidth allocation'
-          - AES-256 Encryption on all files
-          - Pro Support
-          - Share storage with 2 other users
-          - Payment via Card or Mailed in Cash
+          - 'Plus Plan: additional roaming countries included'
+          - 100 GB of Data
+          - 'Unlimited minutes, SMS (MMS is not included in any plans)'
+          - No speed caps
+          - No data throttling
+          - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
+          - 50 GB of roaming within 60 countries
+          - >-
+            Route your data through a VPN protocol of your choice (Subject to
+            availability)
           - Students get 20 % off
+          - '£0 spend cap: you will never go over the amount you pay for the plan'
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Currently Unavailable
+          - label: Purchase
             url: /
             icon: arrowRight
             iconPosition: right
@@ -87,19 +91,15 @@ sections:
       - title: Indivuduals & Businesses
         price: Contact Us
         details: ''
-        description: >
-
-          Online storage for Indivudals and Businesses, who need specific
-          demands.
+        description: |
+          Plans don't meet your needs? Contact us, for the reasons below.
         features:
-          - Choice of the amount of storage
-          - 'Choice of network allocation (1,2 Gig, 2,4 Gig, 5 Gig)'
-          - AES-256 Encryption on all files
-          - Pro Support
-          - Choice of the amount of users
-          - Admin dashboard (For Businesses/Enterprises)
-          - Payment only via Card
-          - Email hosting available with a custom domain
+          - Get verified as a student to get 20 % off
+          - Creating a bespoke plan that will suit your needs
+          - Billing questions
+          - Plan questions
+          - Network questions
+          - Network coverage questions
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3

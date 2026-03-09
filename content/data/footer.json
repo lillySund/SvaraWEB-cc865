@@ -3,7 +3,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "## svara\n\n<help@svara.uk>\n",
+    "text": "## svara\n\n<help@svara.uk>\n\n",
     "primaryLinks": {
         "title": "Products",
         "links": [
@@ -19,7 +19,7 @@
                 "elementId": ""
             },
             {
-                "label": "Sim Only",
+                "label": "Sim Only Plans",
                 "url": "/sonly",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -30,8 +30,19 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "svara",
+        "title": "svara UK",
         "links": [
+            {
+                "type": "Link",
+                "label": "Svara Sweden",
+                "altText": "",
+                "url": "/",
+                "showIcon": true,
+                "icon": "arrowUp",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
             {
                 "label": "Careers",
                 "altText": "careers page",
@@ -54,12 +65,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/svara-uk",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "help@svara.uk",
             "icon": "mail",
@@ -70,6 +75,13 @@
             "altText": "Vimeo link",
             "url": "/",
             "icon": "twitter",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
             "elementId": ""
         }
     ],
@@ -91,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by Github, Not affiliated with Github, Made with ❤ in Sweden and in the UK\n",
+    "copyrightText": "© 2026 Svara, Sending ❤ from Sweden and the UK\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

@@ -25,7 +25,7 @@
         },
         {
             "type": "Link",
-            "label": "Sim Only",
+            "label": "Sim Only Plans",
             "altText": "",
             "url": "/sonly",
             "showIcon": false,
