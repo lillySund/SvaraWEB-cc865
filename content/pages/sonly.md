@@ -25,7 +25,7 @@ sections:
           - No speed caps
           - No data throttling
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
-          - 10 GB of roaming within 50 countries
+          - 25 GB of roaming within 50 countries
           - Students get 20 % off
           - '£0 spend cap: you will never go over the amount you pay for the plan'
         image:
