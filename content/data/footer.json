@@ -3,7 +3,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "## svara\n\n<help@svara.uk>\n",
+    "text": "## svara\n\n<help@svara.uk>\n\n```\n<!DOCTYPE html>\n```\n\n```\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Have a Good Day</title>\n    <script>\n        function getDayMessage() {\n            const days = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"];\n            const today = new Date();\n            const dayOfWeek = today.getDay();\n            document.getElementById(\"message\").innerText = `Have a good ${days[dayOfWeek]}!`;\n        }\n    </script>\n</head>\n<body onload=\"getDayMessage()\">\n    <h1 id=\"message\"></h1>\n</body>\n</html>\n```\n\n",
     "primaryLinks": {
         "title": "Products",
         "links": [
