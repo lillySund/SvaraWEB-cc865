@@ -166,7 +166,7 @@ sections:
       - type: Button
         label: Create your own plan
         altText: ''
-        url: /contact
+        url: /sonly
         showIcon: false
         icon: arrowRight
         iconPosition: right
