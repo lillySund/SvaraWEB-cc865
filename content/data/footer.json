@@ -38,7 +38,7 @@
                 "altText": "",
                 "url": "/",
                 "showIcon": true,
-                "icon": "arrowDown",
+                "icon": "arrowUp",
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
