@@ -38,7 +38,7 @@
                 "altText": "",
                 "url": "/",
                 "showIcon": true,
-                "icon": "chevronBigRight",
+                "icon": "arrowDown",
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
