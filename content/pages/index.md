@@ -14,7 +14,7 @@ sections:
     actions:
       - label: WiFi Plans
         altText: ''
-        url: /wplans
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
