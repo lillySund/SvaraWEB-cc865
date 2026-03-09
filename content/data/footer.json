@@ -54,12 +54,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/svara-uk",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "help@svara.uk",
             "icon": "mail",
