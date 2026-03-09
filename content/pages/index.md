@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Sim Only
+      - label: Sim Only Plans
         altText: ''
         url: /sonly
         showIcon: true
