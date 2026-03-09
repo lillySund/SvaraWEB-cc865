@@ -61,7 +61,7 @@ sections:
           - No speed caps
           - No data throttling
           - 'Access to 4G, 5G Non-Standalone, 5G Standalone*'
-          - 20 GB of roaming within 60 countries
+          - 50 GB of roaming within 60 countries
           - >-
             Route your data through a VPN protocol of your choice (Subject to
             availability)
