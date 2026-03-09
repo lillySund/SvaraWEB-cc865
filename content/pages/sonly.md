@@ -49,7 +49,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: 100 GB
+      - title: 100 GB Plus
         price: £14
         details: per month
         description: |
